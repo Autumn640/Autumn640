@@ -1,4 +1,4 @@
-# Hello [👋], I'm Autumn!
+# Hello 👋, I'm Autumn!
                 
 
 <br>

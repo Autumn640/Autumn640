@@ -1,33 +1,18 @@
-# Hello [👋](https://patorjk.com/software/taag/#p=testall&f=Dancing%20Font&t=Ascii), I'm [Your Name]
-
-```                                                                                     
-  /$$$$$$                      /$$ /$$
- /$$__  $$                    |__/|__/
-| $$  \ $$  /$$$$$$$  /$$$$$$$ /$$ /$$
-| $$$$$$$$ /$$_____/ /$$_____/| $$| $$
-| $$__  $$|  $$$$$$ | $$      | $$| $$
-| $$  | $$ \____  $$| $$      | $$| $$
-| $$  | $$ /$$$$$$$/|  $$$$$$$| $$| $$
-|__/  |__/|_______/  \_______/|__/|__/
-                                      
-```
+# Hello [👋], I'm Autumn!
+                
 
 <br>
 
 ## 🚀 About Me
-I have a great passion for [mention your professional interests] and a strong curiosity for [specific fields like web development, graphic design, medicine, etc.].  
+I have a great passion for CS, and a strong curiosity for Game Developing, Software Engineering.  
 I'm always eager to learn and improve my skills. This is my portfolio where I'll share my projects and progress.  
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
 
 <br>
 
 ‎
 ## 🌱 I'm currently learning
-- Markdown and effective documentation
-- Version control with Git and GitHub
-- [Other technologies/topics]
+- Various programming skills, such as: Frontend, Backend, Software architect, Server and client side game Dev.
 
 <br>
 
@@ -158,11 +143,3 @@ I'm always eager to learn and improve my skills. This is my portfolio where I'll
 [html]: https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white "HTML"
 [go]: https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white "Go"
 [flutter]: https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff "Flutter"
-
-<br>
-
-## [📊](https://github.com/anuraghazra/github-readme-stats/tree/master) My GitHub Stats
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=pizaranha&show_icons=true&theme=default\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pizaranha&layout=compact&theme=default)
